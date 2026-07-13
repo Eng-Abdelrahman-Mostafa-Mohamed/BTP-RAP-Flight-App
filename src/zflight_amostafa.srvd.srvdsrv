@@ -1,0 +1,4 @@
+@EndUserText.label: 'Flight Service'
+define service ZFLIGHT_AMOSTAFA {
+  expose ZI_CONN_CDS_INTERFACE;
+}
